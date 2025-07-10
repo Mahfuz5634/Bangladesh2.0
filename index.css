@@ -232,3 +232,54 @@ section{
     padding: 50px;
     
 }
+.news{
+    max-width: 1200px;
+    height: 402;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    border: none;
+
+}
+.satelite{
+    height: 306px;
+    width: 30%;
+    border-radius: 24px;
+}
+.news-des{
+    width: 50%;
+    padding: 20px;
+}
+.news p{
+    word-wrap: break-word;
+}
+.first-span{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.paragraph{
+    margin-top: 20px;
+}
+.alja{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.news button{
+    margin-top: 20px;
+   padding:10px 20px;
+   border-radius: 7px;
+   border:none;
+   background-color: #006A50;
+   font-size: 12px;
+   color: white;
+}
+.news h1{
+    font-size: 30px;
+    opacity: 0.8;
+}
